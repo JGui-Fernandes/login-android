@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107616477625",
+    "project_id": "login-38adc",
+    "storage_bucket": "login-38adc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107616477625:android:2c19ff8597badef60d9668",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIIG8bBqRn_LqViMP0EZUaBiiV50VGBcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
